@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0f3qi23ku",
+  "description": "https://scrimba.com/s0f3qi23ku/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
