@@ -52,14 +52,14 @@ for (let i = 0; i < inputData.length; i++){
                                 <section>
                                     <div class="poster">
                                         <div>
-                                            <img  class="user user-pic" src="${inputData[i][0]}" alt="profile picture of Vincent van Gogh">
+                                            <img  class="user user-pic" src="${inputData[i][0]}" alt="profile picture of the user">
                                         </div>
                                         <h1>${inputData[i][1]}</h1>
                                         <h2>${inputData[i][2]}</h2>
                                     </div>
                                     
                                     <div class="post">
-                                        <img class="post-img" src="${inputData[i][3]}" alt="self portrait of Vincent van Gogh">
+                                        <img class="post-img" src="${inputData[i][3]}" alt="The post picture of the user">
                                     </div>
                                     
                                     <div class="icon-sections">
